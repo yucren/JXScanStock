@@ -1,0 +1,8 @@
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\SmartDeviceProject2.exe
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\SmartDeviceProject2.pdb
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\SmartDeviceProject2.Form1.resources
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\SmartDeviceProject2.Properties.Resources.resources
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\SmartDeviceProject2.csproj.GenerateResource.Cache
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\SmartDeviceProject2.exe
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\SmartDeviceProject2.pdb

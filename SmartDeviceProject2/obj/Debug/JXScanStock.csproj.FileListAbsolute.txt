@@ -1,0 +1,20 @@
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\JXScanStock.exe
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\JXScanStock.pdb
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\System.Data.SqlClient.dll
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\JXScanStock.ScanForm.resources
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\JXScanStock.Properties.Resources.resources
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\JXScanStock.csproj.GenerateResource.Cache
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\JXScanStock.exe
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\JXScanStock.pdb
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\JXScanStock.FKanbanForm.resources
+\\10.10.13.44\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\ResolveAssemblyReference.cache
+\\10.10.13.44\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\JXScanStock.FKanbanForm.resources
+\\10.10.13.44\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\JXScanStock.ScanForm.resources
+\\10.10.13.44\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\JXScanStock.Properties.Resources.resources
+\\10.10.13.44\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\JXScanStock.csproj.GenerateResource.Cache
+\\10.10.13.44\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\JXScanStock.pdb
+\\10.10.13.44\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\JXScanStock.exe
+\\10.10.13.44\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\JXScanStock.pdb
+\\10.10.13.44\Projects\SmartDeviceProject2\SmartDeviceProject2\bin\Debug\System.Data.SqlClient.dll
+\\10.10.13.44\Projects\SmartDeviceProject2\SmartDeviceProject2\obj\Debug\JXScanStock.exe

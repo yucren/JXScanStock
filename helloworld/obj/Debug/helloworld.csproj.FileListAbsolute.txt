@@ -1,0 +1,5 @@
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\helloworld\bin\Debug\helloworld.exe
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\helloworld\bin\Debug\helloworld.pdb
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\helloworld\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\helloworld\obj\Debug\helloworld.exe
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\helloworld\obj\Debug\helloworld.pdb

@@ -1,0 +1,5 @@
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\Update\bin\Debug\Update.exe
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\Update\bin\Debug\Update.pdb
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\Update\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\Update\obj\Debug\Update.exe
+D:\Users\001001718\Documents\Visual Studio 2008\Projects\SmartDeviceProject2\Update\obj\Debug\Update.pdb
