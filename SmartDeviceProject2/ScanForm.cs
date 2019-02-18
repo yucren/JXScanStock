@@ -95,7 +95,7 @@ namespace JXScanStock
 
             try
             {
-                using (SqlConnection sqlconn = new SqlConnection("server=192.168.50.68;database=LonKing_MES_JX;uid=sa;pwd=LonkingMES;"))
+                using (SqlConnection sqlconn = new SqlConnection("server=192.168.50.68;database=LonKing_MES_JX;uid=sa;pwd=;"))
                 {
 
 
